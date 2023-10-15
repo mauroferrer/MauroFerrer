@@ -19,29 +19,23 @@ Soy un apasionado estudiante de Ciencia de Datos con más de 800 horas de teorí
 - **ETL (Extracción, Transformación y Carga):** Experiencia en la preparación de datos 🔄
 - **EDA (Análisis Exploratorio de Datos):** Exploración y visualización de datos 📊
 
-## 🌟 Proyectos Destacados
-
-- **Proyecto 1:** Descripción breve de tu proyecto. Puedes proporcionar un enlace a un repositorio o una descripción más detallada.
-- **Proyecto 2:** Otra descripción breve de otro proyecto relevante.
 
 ## 📫 Contacto
 
-- **LinkedIn:** [Enlace a tu perfil de LinkedIn](URL_de_tu_perfil)
-- **Correo Electrónico:** [tu@email.com]
+- **LinkedIn:** https://www.linkedin.com/in/mauro-ferrera/
+- **Correo Electrónico:** [ferreramauro05@gmail.com]
 
 ## 📚 Educación
 
-- **Bootcamp en Ciencia de Datos:** [Nombre del Bootcamp]
-- **Universidad o Institución:** [Nombre de la Universidad o Institución]
-- **Fecha de Graduación:** [Fecha de Graduación]
+- **Bootcamp en Ciencia de Datos:** [Academia Henry]
+- **Tecnicatura en creacion de videojueegos y diseño digital: ** [Universidad ULP - La Punta, SanLuis - Argentina]
 
 ## 🌎 Idiomas
 
 - **Español:** Nativo 🇪🇸
-- **Inglés:** [Tu nivel de competencia en inglés, por ejemplo, Avanzado] 🇺🇸
+
 
 ## 🌍 Intereses
-
 - Ciencia de Datos 📊
 - Aprendizaje Automático 🤖
 - Visualización de Datos 📈
