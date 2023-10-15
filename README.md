@@ -1,5 +1,6 @@
 # 👋 ¡Hola, soy Mauro Adan Ferrera!
-![klipartz com (1)](![klipartz com (2)](https://github.com/mauroferrer/MauroFerrer/assets/100243583/b047b4f9-6915-4ca9-abe2-083849261ae5)
+![klipartz com (1)](![klipartz com (2)](![klipartz com (3)](https://github.com/mauroferrer/MauroFerrer/assets/100243583/a27e5bb0-b41c-4f96-bc2c-f5b198d33b69)
+)
 )
 
 
