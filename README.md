@@ -1,7 +1,6 @@
 # 👋 ¡Hola, soy Mauro Adan Ferrera!
-![klipartz com (1)](![klipartz com (2)](![klipartz com (3)](https://github.com/mauroferrer/MauroFerrer/assets/100243583/a27e5bb0-b41c-4f96-bc2c-f5b198d33b69)
-)
-)
+[.](https://github.com/mauroferrer/MauroFerrer/assets/100243583/a27e5bb0-b41c-4f96-bc2c-f5b198d33b69)
+
 
 
 Soy un apasionado estudiante de Ciencia de Datos con más de 800 horas de teoría y práctica en el campo. Me especializo en una amplia variedad de herramientas y técnicas relacionadas con la Ciencia de Datos y la Analítica. Actualmente, resido en Rio Cuarto, Córdoba, Argentina 🇦🇷 y tengo 19 años. 🎓
