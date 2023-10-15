@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Mauro Adan Ferrera!
 
-![Ciencia de Datos](https://c1.klipartz.com/pngpicture/586/210/sticker-png-tensorflow-logo-deep-learning-deep-learning-with-python-machine-learning-artificial-intelligence-artificial-neural-network-data-science-deepmind-technologies-thumbnail.png)
+![Ciencia de Datos](https://www.klipartz.com/es/sticker-png-bpdho)
 
 Soy un apasionado estudiante de Ciencia de Datos con más de 800 horas de teoría y práctica en el campo. Me especializo en una amplia variedad de herramientas y técnicas relacionadas con la Ciencia de Datos y la Analítica. Actualmente, resido en Rio Cuarto, Córdoba, Argentina 🇦🇷 y tengo 19 años. 🎓
 
