@@ -1,5 +1,6 @@
 # 👋 ¡Hola, soy Mauro Adan Ferrera!
-[.](https://github.com/mauroferrer/MauroFerrer/assets/100243583/a27e5bb0-b41c-4f96-bc2c-f5b198d33b69)
+![Ciencia de datos](https://github.com/mauroferrer/MauroFerrer/assets/100243583/f6d3432a-676a-4120-b2a0-46bf7469837e)
+
 
 
 
