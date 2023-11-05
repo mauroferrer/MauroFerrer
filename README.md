@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Mauro Adan Ferrera!
-![Ciencia de datos](https://github.com/mauroferrer/MauroFerrer/assets/100243583/f6d3432a-676a-4120-b2a0-46bf7469837e)
 
+![Black Minimalist Corporate Professional Profile LinkedIn Banner](https://github.com/mauroferrer/MauroFerrer/assets/100243583/0ccd3eff-9539-4307-9355-b26317dd84b2)
 
 
 
