@@ -20,6 +20,11 @@ Soy un apasionado estudiante de Ciencia de Datos con más de 800 horas de teorí
 - **EDA (Análisis Exploratorio de Datos):** Exploración y visualización de datos 📊
 
 
+ ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+ ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+  
+
 ## 📫 Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/mauro-ferrera/
