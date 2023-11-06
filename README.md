@@ -28,7 +28,8 @@ Soy un apasionado estudiante de Ciencia de Datos con más de 800 horas de teorí
 ## 📫 Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/mauro-ferrera/
-- **Correo Electrónico:** [ferreramauro05@gmail.com]
+- **Correo Electrónico:** ferreramauro05@gmail.com
+- **Portafolio Web:** https://mauro-ferrera.odoo.com/
 
 ## 📚 Educación
 
